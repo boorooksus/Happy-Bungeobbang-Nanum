@@ -1,0 +1,6 @@
+/__pycache__
+/llm_env
+app/__pycache__
+.env
+.vscode
+.prettierignore
