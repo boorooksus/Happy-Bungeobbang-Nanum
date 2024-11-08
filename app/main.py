@@ -67,3 +67,7 @@ async def root():
                 "temperture": temperture
             }
     return response
+
+@app.get("/")
+async def root():
+    return "hello"
